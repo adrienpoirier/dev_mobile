@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">velo_a_nantes</string>
+    <string name="title_velos">Vélos</string>
+    <string name="title_parkings">Parkings</string>
+    <string name="title_activity_detail_station">DetailStationActivity</string>
+    <string name="title_activity_detail_parking">DetailParkingActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="title_activity_station_maps">StationMapsActivity</string>
+    <string name="title_activity_parking_maps">ParkingMapsActivity</string>
+</resources>
